@@ -76,7 +76,4 @@ Learn how to use: **CupertinoTabBar, BottomNavigationBarItem and TabBarView**, *
 
 Special thanks to [Luky Erdianto](https://www.figma.com/@luky) for this beautiful design. Check out his work [here](https://www.figma.com/community/file/995300680331143438).
 
-<img src="./assets/online_course/online_course_1.png" width="250" alt="Online Course homepage" /> <img src="./assets/online_course/online_course_2.png" width="250" alt="Online Course profile" />
-
-
 ## More examples coming soon!
