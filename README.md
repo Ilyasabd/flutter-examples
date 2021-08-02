@@ -73,7 +73,3 @@ Special thanks to [linhkhanh.osbkl](https://www.facebook.com/linhkhanh.osbkl) fo
 
 ### 8. Online Course
 Learn how to use: **CupertinoTabBar, BottomNavigationBarItem and TabBarView**, **More about Navigator (1.0)**, ***didChangeDependencies app lifecycle**, **flutter_svg package**, **How to customize a Flutter built-in widget (CustomExpansionTile) and extends a Flutter built-in widget (MainButton)**, **ClipRRect**.
-
-Special thanks to [Luky Erdianto](https://www.figma.com/@luky) for this beautiful design. Check out his work [here](https://www.figma.com/community/file/995300680331143438).
-
-## More examples coming soon!
